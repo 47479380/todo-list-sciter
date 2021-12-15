@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+/dist
+
+sciter.dll
+
+# Editor directories and files
+.idea
+.vscode
+todo-list.iml
+
